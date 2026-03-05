@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicAppointmentSystem", "ClinicAppointmentSystem\ClinicAppointmentSystem.csproj", "{ABFD80CB-A33C-4054-A3CC-C1DE5DA5364D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicAppointmentSystem.Tests", "ClinicAppointmentSystem.Tests\ClinicAppointmentSystem.Tests.csproj", "{3CF84393-D6E0-4C7D-B2D4-87B510D853A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFD80CB-A33C-4054-A3CC-C1DE5DA5364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFD80CB-A33C-4054-A3CC-C1DE5DA5364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFD80CB-A33C-4054-A3CC-C1DE5DA5364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFD80CB-A33C-4054-A3CC-C1DE5DA5364D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF84393-D6E0-4C7D-B2D4-87B510D853A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF84393-D6E0-4C7D-B2D4-87B510D853A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF84393-D6E0-4C7D-B2D4-87B510D853A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF84393-D6E0-4C7D-B2D4-87B510D853A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD04723C-23C2-4336-8299-6603DC105165}
+	EndGlobalSection
+EndGlobal
